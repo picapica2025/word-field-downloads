@@ -1,0 +1,4 @@
+044ef0e110a1d6adaf887985967ebb72aecbfad1540bcd2a8a14300d4bd8afd7  WordField-Windows-x64-v0.42.0.zip
+50d6d534c19f80e45e9af5f699b93e26813b6b37b8132a97aa10f6955d7a4f70  preview-night-camp.png
+
+
